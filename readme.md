@@ -66,7 +66,7 @@ The dashboard provides:
 
 ---
 
-## 🔗 Live Dashboard
+## Live Dashboard
 
 https://lookerstudio.google.com/reporting/6c187748-d72c-42bc-8a84-cee3cc48b62a
 
