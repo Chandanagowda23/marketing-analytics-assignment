@@ -1,6 +1,6 @@
 # Cross-Channel Paid Media Performance Dashboard
 
-## 📌 Overview
+## Overview
 
 This project unifies advertising performance data from Facebook, Google, and TikTok into a standardized data model to enable cross-channel performance analysis and executive reporting.
 
@@ -8,7 +8,7 @@ The objective was to transform raw multi-platform campaign data into a single, i
 
 ---
 
-## 🗂 Data Sources
+## Data Sources
 
 - Facebook Ads
 - Google Ads
@@ -18,9 +18,9 @@ Each platform dataset contained campaign-level metrics including impressions, cl
 
 ---
 
-## 🏗 Data Modeling Approach
+## Data Modeling Approach
 
-### 1️⃣ Unified Fact Table
+### 1️. Unified Fact Table
 Created:
 
 `FACT_PAID_MEDIA_PERFORMANCE`
@@ -29,7 +29,7 @@ Created:
 - Normalized naming conventions (ad_set / adgroup → ad_group)
 - Handled platform-specific fields using NULL where applicable
 
-### 2️⃣ Derived Metrics View
+### 2️. Derived Metrics View
 Created:
 
 `VW_PAID_MEDIA_METRICS`
@@ -46,7 +46,7 @@ Additionally implemented platform-level performance ranking using window functio
 
 ---
 
-## 📊 Dashboard Overview
+## Dashboard Overview
 
 The dashboard provides:
 
@@ -58,7 +58,7 @@ The dashboard provides:
 
 ---
 
-## 🧠 Key Insights
+## Key Insights
 
 - Google demonstrates strong acquisition efficiency with competitive CPA and measurable ROAS.
 - TikTok drives the highest volume of impressions and conversions, though at comparatively higher CPA.
