@@ -60,10 +60,11 @@ The dashboard provides:
 
 ## Key Insights
 
-- Facebook has the lowest CPA and the highest CTR, indicating strong engagement and cost-efficient conversions.
-- TikTok has the highest spend and total conversions, but operates at a comparatively higher CPA, suggesting scale comes with higher acquisition cost.
-- Google demonstrates balanced performance, maintaining competitive efficiency while contributing meaningfully to overall conversions.
+ **Facebook** delivers the lowest CPA and highest CTR, indicating strong audience engagement and cost-efficient conversions.
 
+- **TikTok** drives the highest overall spend and total conversions, but operates at a comparatively higher CPA, suggesting scale comes with increased acquisition cost.
+
+- **Google** demonstrates balanced performance, maintaining competitive efficiency while contributing meaningfully to total conversions.
 ---
 
 ## Live Dashboard
