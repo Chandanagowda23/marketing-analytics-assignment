@@ -60,7 +60,7 @@ The dashboard provides:
 
 ## Key Insights
 
- **Facebook** delivers the lowest CPA and highest CTR, indicating strong audience engagement and cost-efficient conversions.
+- **Facebook** delivers the lowest CPA and highest CTR, indicating strong audience engagement and cost-efficient conversions.
 
 - **TikTok** drives the highest overall spend and total conversions, but operates at a comparatively higher CPA, suggesting scale comes with increased acquisition cost.
 
